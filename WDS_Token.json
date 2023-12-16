@@ -2457,7 +2457,7 @@
     },
     "fontFamilies": {
       "inter": {
-        "value": "Inter",
+        "value": "General Sans Variable",
         "type": "fontFamilies"
       }
     },
