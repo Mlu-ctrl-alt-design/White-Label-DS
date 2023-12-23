@@ -3547,7 +3547,7 @@
     }
   },
   "alias": {},
-  "theme / ilifa Labantwana": {
+  "theme / ilifa Labantwana / light": {
     "Theme": {
       "bg": {
         "page": {
@@ -3568,7 +3568,7 @@
             "type": "color"
           },
           "raised": {
-            "value": "{Gray neutral.900}",
+            "value": "{Gray (light mode).100}",
             "type": "color"
           }
         },
@@ -3581,7 +3581,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{Gray (light mode).200}",
+          "value": "{Gray (light mode).400}",
           "type": "color"
         },
         "input": {
@@ -3885,7 +3885,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{Gray (light mode).400}",
+          "value": "{Gray (light mode).500}",
           "type": "color"
         },
         "inactive": {
@@ -3972,7 +3972,7 @@
         },
         "surface": {
           "normal": {
-            "value": "{Gray (light mode).25}",
+            "value": "{Gray (dark mode).800}",
             "type": "color"
           },
           "invert": {
@@ -3989,11 +3989,11 @@
           "type": "color"
         },
         "subtle": {
-          "value": "{Gray (light mode).100}",
+          "value": "{Gray (light mode).800}",
           "type": "color"
         },
         "muted": {
-          "value": "{Gray (light mode).200}",
+          "value": "{Gray (dark mode).700}",
           "type": "color"
         },
         "input": {
@@ -4016,15 +4016,15 @@
         },
         "primary": {
           "normal": {
-            "value": "{Teal.500}",
+            "value": "{Teal.300}",
             "type": "color"
           },
           "hover": {
-            "value": "{Teal.700}",
+            "value": "{Teal.500}",
             "type": "color"
           },
           "subtle": {
-            "value": "{Teal.400}",
+            "value": "{Teal.800}",
             "type": "color"
           },
           "subtle hover": {
@@ -4111,7 +4111,7 @@
           "type": "color"
         },
         "strong": {
-          "value": "{Gray (light mode).900}",
+          "value": "{Gray (dark mode).500}",
           "type": "color"
         },
         "subtle": {
@@ -4189,7 +4189,7 @@
       },
       "icon": {
         "default": {
-          "value": "{Gray (light mode).900}",
+          "value": "{Gray (light mode).50}",
           "type": "color"
         },
         "muted": {
@@ -4273,15 +4273,15 @@
       },
       "text": {
         "body": {
-          "value": "{Gray neutral.900}",
+          "value": "{Gray (light mode).200}",
           "type": "color"
         },
         "secondary": {
-          "value": "{Gray (light mode).800}",
+          "value": "{Gray (light mode).100}",
           "type": "color"
         },
         "subtle": {
-          "value": "{Gray (light mode).600}",
+          "value": "{Gray (light mode).50}",
           "type": "color"
         },
         "on subtle": {
@@ -4297,7 +4297,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{Gray (light mode).400}",
+          "value": "{Gray (light mode).600}",
           "type": "color"
         },
         "inactive": {
@@ -4369,15 +4369,40 @@
           "type": "color"
         }
       }
+    },
+    "Logo": {
+      "value": "https://mlumanda.co.za/wp-content/uploads/2019/10/Mlu-logo.png",
+      "type": "asset"
     }
   },
   "theme / spacious": {},
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "dc3341fd2d7a796621e1be6b1e99a78a2c443a1b",
+      "name": "ilifa labantwana Light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "theme / ilifa Labantwana / light": "enabled",
+        "global": "source"
+      },
+      "group": "Theme"
+    },
+    {
+      "id": "f11b8962efc7af7c9bece182b1f68f5c89068655",
+      "name": "ilifa labantwana Dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "theme / ilifa Labantwana / dark": "enabled",
+        "global": "source"
+      },
+      "group": "Theme"
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "alias",
-      "theme / ilifa Labantwana",
+      "theme / ilifa Labantwana / light",
       "theme / ilifa Labantwana / dark",
       "theme / spacious"
     ]
