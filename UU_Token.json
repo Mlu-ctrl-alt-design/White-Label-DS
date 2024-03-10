@@ -3551,7 +3551,7 @@
     "Theme": {
       "bg": {
         "page": {
-          "value": "{Gray (light mode).50}",
+          "value": "{Base.White}",
           "type": "color"
         },
         "body": {
@@ -3560,11 +3560,11 @@
         },
         "surface": {
           "normal": {
-            "value": "{Gray (light mode).25}",
+            "value": "{Theme.bg.surface.invert}",
             "type": "color"
           },
           "invert": {
-            "value": "{Gray neutral.900}",
+            "value": "{Gray neutral.100}",
             "type": "color"
           },
           "raised": {
@@ -3881,7 +3881,7 @@
           "type": "color"
         },
         "on invert": {
-          "value": "{Gray (light mode).100}",
+          "value": "{Gray (light mode).600}",
           "type": "color"
         },
         "muted": {
