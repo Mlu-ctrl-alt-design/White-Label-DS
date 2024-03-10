@@ -1993,10 +1993,10 @@
         "value": {
           "color": "#9e77ed3d",
           "type": "dropShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 0,
-          "spread": 4
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "4"
         },
         "type": "boxShadow",
         "description": "Used for focus states. For example, buttons and input fields."
@@ -2006,18 +2006,18 @@
           {
             "color": "#9e77ed3d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 4
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4"
           },
           {
             "color": "#1018280d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -2027,26 +2027,26 @@
           {
             "color": "#9e77ed3d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 4
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4"
           },
           {
             "color": "#1018280f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           },
           {
             "color": "#1018281a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 3,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -2055,10 +2055,10 @@
         "value": {
           "color": "#98a2b324",
           "type": "dropShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 0,
-          "spread": 4
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "4"
         },
         "type": "boxShadow",
         "description": "Used for focus states. For example, buttons and input fields."
@@ -2068,18 +2068,18 @@
           {
             "color": "#98a2b324",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 4
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4"
           },
           {
             "color": "#1018280d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -2089,26 +2089,26 @@
           {
             "color": "#98a2b324",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 4
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4"
           },
           {
             "color": "#1018280f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           },
           {
             "color": "#1018281a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 3,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -2117,10 +2117,10 @@
         "value": {
           "color": "#98a2b333",
           "type": "dropShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 0,
-          "spread": 4
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "4"
         },
         "type": "boxShadow",
         "description": "Used for focus states. For example, buttons and input fields."
@@ -2129,10 +2129,10 @@
         "value": {
           "color": "#f044383d",
           "type": "dropShadow",
-          "x": 0,
-          "y": 0,
-          "blur": 0,
-          "spread": 4
+          "x": "0",
+          "y": "0",
+          "blur": "0",
+          "spread": "4"
         },
         "type": "boxShadow",
         "description": "Used for destructive and error focus states. For example, buttons and input fields."
@@ -2142,18 +2142,18 @@
           {
             "color": "#f044383d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 0,
-            "spread": 4
+            "x": "0",
+            "y": "0",
+            "blur": "0",
+            "spread": "4"
           },
           {
             "color": "#1018280d",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           }
         ],
         "type": "boxShadow",
@@ -2165,10 +2165,10 @@
         "value": {
           "color": "#1018280d",
           "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 2,
-          "spread": 0
+          "x": "0",
+          "y": "1",
+          "blur": "2",
+          "spread": "0"
         },
         "type": "boxShadow"
       },
@@ -2177,18 +2177,18 @@
           {
             "color": "#1018280f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 2,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
           },
           {
             "color": "#1018281a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 1,
-            "blur": 3,
-            "spread": 0
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "0"
           }
         ],
         "type": "boxShadow"
@@ -2198,18 +2198,18 @@
           {
             "color": "#1018280f",
             "type": "dropShadow",
-            "x": 0,
-            "y": 2,
-            "blur": 4,
-            "spread": -2
+            "x": "0",
+            "y": "2",
+            "blur": "4",
+            "spread": "-2"
           },
           {
             "color": "#1018281a",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 8,
-            "spread": -2
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "-2"
           }
         ],
         "type": "boxShadow"
@@ -2219,18 +2219,18 @@
           {
             "color": "#10182808",
             "type": "dropShadow",
-            "x": 0,
-            "y": 4,
-            "blur": 6,
-            "spread": -2
+            "x": "0",
+            "y": "4",
+            "blur": "6",
+            "spread": "-2"
           },
           {
             "color": "#10182814",
             "type": "dropShadow",
-            "x": 0,
-            "y": 12,
-            "blur": 16,
-            "spread": -4
+            "x": "0",
+            "y": "12",
+            "blur": "16",
+            "spread": "-4"
           }
         ],
         "type": "boxShadow"
@@ -2240,18 +2240,18 @@
           {
             "color": "#10182808",
             "type": "dropShadow",
-            "x": 0,
-            "y": 8,
-            "blur": 8,
-            "spread": -4
+            "x": "0",
+            "y": "8",
+            "blur": "8",
+            "spread": "-4"
           },
           {
             "color": "#10182814",
             "type": "dropShadow",
-            "x": 0,
-            "y": 20,
-            "blur": 24,
-            "spread": -4
+            "x": "0",
+            "y": "20",
+            "blur": "24",
+            "spread": "-4"
           }
         ],
         "type": "boxShadow"
@@ -2260,10 +2260,10 @@
         "value": {
           "color": "#1018282e",
           "type": "dropShadow",
-          "x": 0,
-          "y": 24,
-          "blur": 48,
-          "spread": -12
+          "x": "0",
+          "y": "24",
+          "blur": "48",
+          "spread": "-12"
         },
         "type": "boxShadow"
       },
@@ -2271,10 +2271,10 @@
         "value": {
           "color": "#10182824",
           "type": "dropShadow",
-          "x": 0,
-          "y": 32,
-          "blur": 64,
-          "spread": -12
+          "x": "0",
+          "y": "32",
+          "blur": "64",
+          "spread": "-12"
         },
         "type": "boxShadow"
       },
@@ -2283,10 +2283,10 @@
           "value": {
             "color": "#34405424",
             "type": "dropShadow",
-            "x": 0,
-            "y": 75,
-            "blur": 150,
-            "spread": 0
+            "x": "0",
+            "y": "75",
+            "blur": "150",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "Used for portfolio mockup layouts."
@@ -2295,10 +2295,10 @@
           "value": {
             "color": "#3440542e",
             "type": "dropShadow",
-            "x": 0,
-            "y": 100,
-            "blur": 200,
-            "spread": 0
+            "x": "0",
+            "y": "100",
+            "blur": "200",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "Used for portfolio mockup layouts."
@@ -2307,10 +2307,10 @@
           "value": {
             "color": "#3440541f",
             "type": "dropShadow",
-            "x": -40,
-            "y": 40,
-            "blur": 72,
-            "spread": 0
+            "x": "-40",
+            "y": "40",
+            "blur": "72",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "Used for portfolio mockup layouts."
@@ -2319,10 +2319,10 @@
           "value": {
             "color": "#3440541f",
             "type": "dropShadow",
-            "x": 100,
-            "y": 100,
-            "blur": 150,
-            "spread": 0
+            "x": "100",
+            "y": "100",
+            "blur": "150",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "Used for portfolio mockup layouts."
@@ -2331,10 +2331,10 @@
           "value": {
             "color": "#34405414",
             "type": "dropShadow",
-            "x": 32,
-            "y": 32,
-            "blur": 64,
-            "spread": 0
+            "x": "32",
+            "y": "32",
+            "blur": "64",
+            "spread": "0"
           },
           "type": "boxShadow",
           "description": "Used for portfolio mockup layouts."
@@ -3742,7 +3742,7 @@
             "type": "color"
           },
           "subtle hover": {
-            "value": "{Theme.bg.primary.subtle hover}",
+            "value": "{Theme.border.primary.subtle hover}",
             "type": "color"
           },
           "focus": {
@@ -4286,7 +4286,7 @@
           "type": "color"
         },
         "on subtle": {
-          "value": "{Gray (light mode).900}",
+          "value": "{Gray (light mode).100}",
           "type": "color"
         },
         "on image": {
@@ -4377,6 +4377,30 @@
     }
   },
   "theme / spacious": {},
+  "theme / NSFAS": {
+    "Theme": {
+      "border": {
+        "primary": {
+          "subtle hover": {
+            "value": "{Orange dark.500}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "theme / Ezra": {
+    "Theme": {
+      "border": {
+        "primary": {
+          "subtle hover": {
+            "value": "{Blue light.600}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "$themes": [
     {
       "id": "dc3341fd2d7a796621e1be6b1e99a78a2c443a1b",
@@ -4384,7 +4408,9 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "theme / ilifa Labantwana / light": "enabled",
-        "global": "source"
+        "global": "source",
+        "theme / NSFAS": "disabled",
+        "theme / Ezra": "disabled"
       },
       "group": "Theme"
     },
@@ -4394,9 +4420,55 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "theme / ilifa Labantwana / dark": "enabled",
-        "global": "source"
+        "global": "source",
+        "theme / NSFAS": "disabled",
+        "theme / Ezra": "disabled"
       },
       "group": "Theme"
+    },
+    {
+      "id": "e181b333daee6a46e4af91d2684652415b604acb",
+      "name": "Light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "enabled",
+        "theme / ilifa Labantwana / light": "source",
+        "theme / NSFAS": "source"
+      },
+      "group": "NSFAS"
+    },
+    {
+      "id": "47a2381d1f716a50ac766c98e2a7af05360ca318",
+      "name": "Dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / ilifa Labantwana / dark": "enabled",
+        "theme / NSFAS": "enabled"
+      },
+      "group": "NSFAS"
+    },
+    {
+      "id": "b9099462911040bcb059b94c09b6740e3591a866",
+      "name": "Light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / ilifa Labantwana / light": "enabled",
+        "theme / Ezra": "enabled"
+      },
+      "group": "Ezra"
+    },
+    {
+      "id": "802606186418654b148d75a08fd8d63d870ae8d1",
+      "name": "Dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / ilifa Labantwana / dark": "enabled",
+        "theme / Ezra": "enabled"
+      },
+      "group": "Ezra"
     }
   ],
   "$metadata": {
@@ -4405,7 +4477,9 @@
       "alias",
       "theme / ilifa Labantwana / light",
       "theme / ilifa Labantwana / dark",
-      "theme / spacious"
+      "theme / spacious",
+      "theme / NSFAS",
+      "theme / Ezra"
     ]
   }
 }
