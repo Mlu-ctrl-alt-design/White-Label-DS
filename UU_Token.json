@@ -3547,9 +3547,9 @@
     }
   },
   "alias": {},
-  "theme / ilifa Labantwana / light": {
+  "theme / Semantic/ light": {
     "Theme": {
-      "bg": {
+      "background": {
         "page": {
           "value": "{Gray (light mode).50}",
           "type": "color"
@@ -3557,85 +3557,29 @@
         "body": {
           "value": "{Gray (light mode).50}",
           "type": "color"
-        },
-        "surface": {
-          "normal": {
-            "value": "{Gray (light mode).25}",
-            "type": "color"
-          },
-          "invert": {
-            "value": "{Gray neutral.900}",
-            "type": "color"
-          },
-          "raised": {
-            "value": "{Gray (light mode).100}",
-            "type": "color"
-          }
-        },
-        "strong": {
-          "value": "{Gray (light mode).900}",
+        }
+      },
+      "surface": {
+        "normal": {
+          "value": "{Gray (light mode).25}",
           "type": "color"
         },
-        "subtle": {
+        "invert": {
+          "value": "{Gray neutral.900}",
+          "type": "color"
+        },
+        "raised": {
           "value": "{Gray (light mode).100}",
           "type": "color"
-        },
-        "muted": {
-          "value": "{Gray (light mode).400}",
-          "type": "color"
-        },
-        "input": {
-          "normal": {
-            "value": "{Gray (light mode).25}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Gray (light mode).100}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Gray (light mode).50}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Gray (light mode).25}",
-            "type": "color"
-          }
-        },
+        }
+      },
+      "brand": {
         "primary": {
-          "normal": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{Teal.400}",
-            "type": "color"
-          },
-          "subtle hover": {
-            "value": "{Blue.700}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Teal.600}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Teal.100}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{Teal.50}",
-            "type": "color"
-          }
-        },
+          "value": "{Blue.700}",
+          "type": "color"
+        }
+      },
+      "denotative": {
         "success": {
           "normal": {
             "value": "{Green.500}",
@@ -3698,164 +3642,14 @@
           "value": "{Gray (light mode).400}",
           "type": "color"
         },
-        "strong": {
-          "value": "{Gray (light mode).900}",
-          "type": "color"
-        },
         "subtle": {
           "value": "{Gray (light mode).100}",
-          "type": "color"
-        },
-        "inactive": {
-          "value": "{Gray (light mode).300}",
-          "type": "color"
-        },
-        "input": {
-          "normal": {
-            "value": "{Gray (light mode).300}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Gray (light mode).400}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Blue.200}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Gray (light mode).300}",
-            "type": "color"
-          }
-        },
-        "primary": {
-          "normal": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{Teal.400}",
-            "type": "color"
-          },
-          "subtle hover": {
-            "value": "{Theme.border.primary.subtle hover}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Teal.300}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Teal.100}",
-            "type": "color"
-          }
-        },
-        "success": {
-          "value": "{Green.400}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{Yellow.400}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Error.400}",
-          "type": "color"
-        },
-        "info": {
-          "value": "{Blue.400}",
           "type": "color"
         }
       },
       "icon": {
         "default": {
           "value": "{Gray (light mode).900}",
-          "type": "color"
-        },
-        "muted": {
-          "value": "{Gray (light mode).500}",
-          "type": "color"
-        },
-        "inactive": {
-          "value": "{Gray (light mode).300}",
-          "type": "color"
-        },
-        "neutral": {
-          "value": "{Gray (light mode).25}",
-          "type": "color"
-        },
-        "on subtle": {
-          "value": "{Gray (light mode).700}",
-          "type": "color"
-        },
-        "on invert": {
-          "value": "{Gray (light mode).200}",
-          "type": "color"
-        },
-        "on image": {
-          "value": "{Base.White}",
-          "type": "color"
-        },
-        "on input": {
-          "value": "{Teal.900}",
-          "type": "color"
-        },
-        "primary": {
-          "normal": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Teal.200}",
-            "type": "color"
-          }
-        },
-        "on primary": {
-          "value": "{Gray (light mode).50}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{Green.500}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{Yellow.500}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Error.500}",
-          "type": "color"
-        },
-        "info": {
-          "value": "{Blue.500}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{Cyan.500}",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "{Blue.500}",
           "type": "color"
         }
       },
@@ -3868,187 +3662,50 @@
           "value": "{Gray (light mode).800}",
           "type": "color"
         },
-        "subtle": {
-          "value": "{Gray (light mode).600}",
-          "type": "color"
-        },
-        "on subtle": {
-          "value": "{Gray (light mode).900}",
-          "type": "color"
-        },
         "on image": {
           "value": "{Gray (light mode).25}",
           "type": "color"
         },
-        "on invert": {
-          "value": "{Gray (light mode).100}",
-          "type": "color"
-        },
-        "muted": {
-          "value": "{Gray (light mode).500}",
-          "type": "color"
-        },
-        "inactive": {
-          "value": "{Gray (light mode).300}",
-          "type": "color"
-        },
-        "input": {
-          "normal": {
-            "value": "{Gray (light mode).500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Gray (light mode).600}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Gray (light mode).900}",
-            "type": "color"
-          }
-        },
-        "primary": {
-          "normal": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "link": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "link hover": {
-            "value": "{Teal.600}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Teal.200}",
-            "type": "color"
-          }
-        },
         "on primary": {
           "value": "{Gray (light mode).25}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{Green.500}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{Yellow.500}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Error.500}",
-          "type": "color"
-        },
-        "info": {
-          "value": "{Blue.500}",
           "type": "color"
         }
       }
     }
   },
-  "theme / ilifa Labantwana / dark": {
+  "theme / Semantic/ dark": {
     "Theme": {
-      "bg": {
+      "background": {
         "page": {
-          "value": "{Gray (dark mode).900}",
-          "type": "color"
-        },
-        "body": {
-          "value": "{Gray (dark mode).900}",
-          "type": "color"
-        },
-        "surface": {
-          "normal": {
-            "value": "{Gray (dark mode).800}",
-            "type": "color"
-          },
-          "invert": {
-            "value": "{Gray neutral.900}",
-            "type": "color"
-          },
-          "raised": {
-            "value": "{Gray neutral.900}",
-            "type": "color"
-          }
-        },
-        "strong": {
           "value": "{Gray (light mode).900}",
           "type": "color"
         },
-        "subtle": {
+        "body": {
+          "value": "{Gray (light mode).950}",
+          "type": "color"
+        }
+      },
+      "surface": {
+        "normal": {
           "value": "{Gray (light mode).800}",
           "type": "color"
         },
-        "muted": {
-          "value": "{Gray (dark mode).700}",
+        "invert": {
+          "value": "{Gray (light mode).100}",
           "type": "color"
         },
-        "input": {
-          "normal": {
-            "value": "{Gray (light mode).25}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Gray (light mode).100}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Gray (light mode).50}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Gray (light mode).25}",
-            "type": "color"
-          }
-        },
+        "raised": {
+          "value": "{Gray (light mode).600}",
+          "type": "color"
+        }
+      },
+      "brand": {
         "primary": {
-          "normal": {
-            "value": "{Teal.400}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{Teal.800}",
-            "type": "color"
-          },
-          "subtle hover": {
-            "value": "{Blue.600}",
-            "type": "color",
-            "description": "This is the token to change for brand colours"
-          },
-          "focus": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Teal.600}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Teal.100}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{Teal.50}",
-            "type": "color"
-          }
-        },
+          "value": "{Blue.700}",
+          "type": "color"
+        }
+      },
+      "denotative": {
         "success": {
           "normal": {
             "value": "{Green.500}",
@@ -4108,272 +3765,38 @@
       },
       "border": {
         "container": {
-          "value": "{Gray (light mode).400}",
-          "type": "color"
-        },
-        "strong": {
-          "value": "{Gray (dark mode).500}",
+          "value": "{Gray (light mode).700}",
           "type": "color"
         },
         "subtle": {
-          "value": "{Gray (light mode).100}",
-          "type": "color"
-        },
-        "inactive": {
-          "value": "{Gray (light mode).300}",
-          "type": "color"
-        },
-        "input": {
-          "normal": {
-            "value": "{Gray (light mode).300}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Gray (light mode).400}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Blue.200}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Gray (light mode).300}",
-            "type": "color"
-          }
-        },
-        "primary": {
-          "normal": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{Teal.400}",
-            "type": "color"
-          },
-          "subtle hover": {
-            "value": "{Teal.600}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Teal.300}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Teal.100}",
-            "type": "color"
-          }
-        },
-        "success": {
-          "value": "{Green.400}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{Yellow.400}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Error.400}",
-          "type": "color"
-        },
-        "info": {
-          "value": "{Blue.400}",
+          "value": "{Gray (light mode).900}",
           "type": "color"
         }
       },
       "icon": {
         "default": {
-          "value": "{Gray (light mode).50}",
-          "type": "color"
-        },
-        "muted": {
           "value": "{Gray (light mode).500}",
-          "type": "color"
-        },
-        "inactive": {
-          "value": "{Gray (light mode).300}",
-          "type": "color"
-        },
-        "neutral": {
-          "value": "{Gray (light mode).25}",
-          "type": "color"
-        },
-        "on subtle": {
-          "value": "{Gray (light mode).700}",
-          "type": "color"
-        },
-        "on invert": {
-          "value": "{Gray (light mode).200}",
-          "type": "color"
-        },
-        "on image": {
-          "value": "{Base.White}",
-          "type": "color"
-        },
-        "on input": {
-          "value": "{Teal.900}",
-          "type": "color"
-        },
-        "primary": {
-          "normal": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Teal.200}",
-            "type": "color"
-          }
-        },
-        "on primary": {
-          "value": "{Gray (light mode).50}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{Green.500}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{Yellow.500}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Error.500}",
-          "type": "color"
-        },
-        "info": {
-          "value": "{Blue.500}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{Cyan.500}",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "{Blue.500}",
           "type": "color"
         }
       },
       "text": {
         "body": {
-          "value": "{Gray (light mode).200}",
+          "value": "{Gray (light mode).100}",
           "type": "color"
         },
         "secondary": {
-          "value": "{Gray (light mode).100}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{Gray (light mode).50}",
-          "type": "color"
-        },
-        "on subtle": {
-          "value": "{Gray (light mode).100}",
-          "type": "color"
-        },
-        "on image": {
-          "value": "{Gray (light mode).25}",
-          "type": "color"
-        },
-        "on invert": {
-          "value": "{Gray (light mode).100}",
-          "type": "color"
-        },
-        "muted": {
-          "value": "{Gray (light mode).600}",
-          "type": "color"
-        },
-        "inactive": {
           "value": "{Gray (light mode).300}",
           "type": "color"
         },
-        "input": {
-          "normal": {
-            "value": "{Gray (light mode).500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Gray (light mode).600}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Gray (light mode).900}",
-            "type": "color"
-          }
-        },
-        "primary": {
-          "normal": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "link": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "link hover": {
-            "value": "{Teal.600}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{Teal.500}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{Teal.700}",
-            "type": "color"
-          },
-          "disabled": {
-            "value": "{Teal.200}",
-            "type": "color"
-          }
+        "on image": {
+          "value": "{Gray (light mode).700}",
+          "type": "color"
         },
         "on primary": {
-          "value": "{Gray (light mode).25}",
-          "type": "color"
-        },
-        "success": {
-          "value": "{Green.500}",
-          "type": "color"
-        },
-        "warning": {
-          "value": "{Yellow.500}",
-          "type": "color"
-        },
-        "error": {
-          "value": "{Error.500}",
-          "type": "color"
-        },
-        "info": {
-          "value": "{Blue.500}",
+          "value": "{Gray (light mode).800}",
           "type": "color"
         }
       }
-    },
-    "Logo": {
-      "value": "https://mlumanda.co.za/wp-content/uploads/2019/10/Mlu-logo.png",
-      "type": "asset"
     }
   },
   "theme / spacious": {},
@@ -4427,8 +3850,9 @@
       "name": "ilifa labantwana Light",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "theme / ilifa Labantwana / light": "enabled",
-        "global": "source"
+        "global": "source",
+        "theme / Semantic/ light": "enabled",
+        "theme / Semantic/ dark": "disabled"
       },
       "group": "Theme"
     },
@@ -4437,8 +3861,9 @@
       "name": "ilifa labantwana Dark",
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
-        "theme / ilifa Labantwana / dark": "enabled",
-        "global": "source"
+        "global": "source",
+        "theme / Semantic/ light": "disabled",
+        "theme / Semantic/ dark": "disabled"
       },
       "group": "Theme"
     },
@@ -4448,8 +3873,9 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "enabled",
-        "theme / ilifa Labantwana / light": "source",
-        "theme / NSFAS": "source"
+        "theme / NSFAS": "source",
+        "theme / Semantic/ light": "source",
+        "theme / Semantic/ dark": "disabled"
       },
       "group": "NSFAS"
     },
@@ -4459,8 +3885,9 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / ilifa Labantwana / dark": "enabled",
-        "theme / NSFAS": "enabled"
+        "theme / NSFAS": "enabled",
+        "theme / Semantic/ light": "disabled",
+        "theme / Semantic/ dark": "disabled"
       },
       "group": "NSFAS"
     },
@@ -4470,8 +3897,9 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / ilifa Labantwana / light": "enabled",
-        "theme / Ezra": "enabled"
+        "theme / Ezra": "enabled",
+        "theme / Semantic/ light": "enabled",
+        "theme / Semantic/ dark": "disabled"
       },
       "group": "Ezra"
     },
@@ -4481,8 +3909,9 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / ilifa Labantwana / dark": "enabled",
-        "theme / Ezra": "enabled"
+        "theme / Ezra": "enabled",
+        "theme / Semantic/ light": "disabled",
+        "theme / Semantic/ dark": "disabled"
       },
       "group": "Ezra"
     }
@@ -4491,8 +3920,8 @@
     "tokenSetOrder": [
       "global",
       "alias",
-      "theme / ilifa Labantwana / light",
-      "theme / ilifa Labantwana / dark",
+      "theme / Semantic/ light",
+      "theme / Semantic/ dark",
       "theme / spacious",
       "theme / NSFAS",
       "theme / Ezra"
