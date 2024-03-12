@@ -3639,7 +3639,7 @@
       },
       "border": {
         "container": {
-          "value": "{Gray (light mode).400}",
+          "value": "{Gray (light mode).200}",
           "type": "color"
         },
         "subtle": {
@@ -3765,7 +3765,7 @@
       },
       "border": {
         "container": {
-          "value": "{Gray (light mode).700}",
+          "value": "{Gray (light mode).500}",
           "type": "color"
         },
         "subtle": {
@@ -3799,15 +3799,12 @@
       }
     }
   },
-  "theme / spacious": {},
   "theme / NSFAS": {
     "Theme": {
-      "border": {
+      "brand": {
         "primary": {
-          "subtle hover": {
-            "value": "{Orange dark.500}",
-            "type": "color"
-          }
+          "value": "{Orange dark.500}",
+          "type": "color"
         }
       }
     },
@@ -3824,12 +3821,10 @@
   },
   "theme / Ezra": {
     "Theme": {
-      "border": {
+      "brand": {
         "primary": {
-          "subtle hover": {
-            "value": "{Blue light.600}",
-            "type": "color"
-          }
+          "value": "{Blue light.600}",
+          "type": "color"
         }
       }
     },
@@ -3851,8 +3846,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Semantic/ light": "enabled",
-        "theme / Semantic/ dark": "disabled"
+        "theme / Semantic/ light": "enabled"
       },
       "group": "Theme"
     },
@@ -3862,8 +3856,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Semantic/ light": "disabled",
-        "theme / Semantic/ dark": "disabled"
+        "theme / Semantic/ dark": "enabled"
       },
       "group": "Theme"
     },
@@ -3874,8 +3867,7 @@
       "selectedTokenSets": {
         "global": "enabled",
         "theme / NSFAS": "source",
-        "theme / Semantic/ light": "source",
-        "theme / Semantic/ dark": "disabled"
+        "theme / Semantic/ light": "source"
       },
       "group": "NSFAS"
     },
@@ -3886,8 +3878,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / NSFAS": "enabled",
-        "theme / Semantic/ light": "disabled",
-        "theme / Semantic/ dark": "disabled"
+        "theme / Semantic/ dark": "enabled"
       },
       "group": "NSFAS"
     },
@@ -3898,8 +3889,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / Ezra": "enabled",
-        "theme / Semantic/ light": "enabled",
-        "theme / Semantic/ dark": "disabled"
+        "theme / Semantic/ light": "enabled"
       },
       "group": "Ezra"
     },
@@ -3910,8 +3900,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / Ezra": "enabled",
-        "theme / Semantic/ light": "disabled",
-        "theme / Semantic/ dark": "disabled"
+        "theme / Semantic/ dark": "enabled"
       },
       "group": "Ezra"
     }
@@ -3922,7 +3911,6 @@
       "alias",
       "theme / Semantic/ light",
       "theme / Semantic/ dark",
-      "theme / spacious",
       "theme / NSFAS",
       "theme / Ezra"
     ]
