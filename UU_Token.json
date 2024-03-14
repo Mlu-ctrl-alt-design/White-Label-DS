@@ -3943,6 +3943,50 @@
         "theme / Semantic/ dark": "enabled"
       },
       "group": "Ezra"
+    },
+    {
+      "id": "384dbb02105bfccb85cb7238b4c6019693b4a105",
+      "name": "light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / Semantic/ light": "enabled",
+        "theme / Anglo": "enabled"
+      },
+      "group": "Anglo"
+    },
+    {
+      "id": "a37ae8ced65bd50721b37375761dd92144d2180f",
+      "name": "Dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / Semantic/ dark": "enabled",
+        "theme / Anglo": "source"
+      },
+      "group": "Anglo"
+    },
+    {
+      "id": "47e493619b9b54e8f27f46ccf2ba6267ebb6e004",
+      "name": "Light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / Semantic/ light": "enabled",
+        "theme / Avis": "enabled"
+      },
+      "group": "Avis"
+    },
+    {
+      "id": "22c36ced95593b2c218748a7e7ad2918456547a8",
+      "name": "Dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / Semantic/ dark": "enabled",
+        "theme / Avis": "enabled"
+      },
+      "group": "Avis"
     }
   ],
   "$metadata": {
