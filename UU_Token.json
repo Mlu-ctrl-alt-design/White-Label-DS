@@ -3839,6 +3839,46 @@
       }
     }
   },
+  "theme / Anglo": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Fuchsia.600}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "http://storez.local/wp-content/uploads/2024/03/Ezra-Horizontal@3x.png",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto Condensed",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "theme / Avis": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Rosé.700}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "http://storez.local/wp-content/uploads/2024/03/Ezra-Horizontal@3x.png",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    }
+  },
   "$themes": [
     {
       "id": "dc3341fd2d7a796621e1be6b1e99a78a2c443a1b",
@@ -3912,7 +3952,9 @@
       "theme / Semantic/ light",
       "theme / Semantic/ dark",
       "theme / NSFAS",
-      "theme / Ezra"
+      "theme / Ezra",
+      "theme / Anglo",
+      "theme / Avis"
     ]
   }
 }
