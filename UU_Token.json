@@ -2407,7 +2407,7 @@
         "type": "fontWeights"
       },
       "inter-2": {
-        "value": "Semi Bold",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "inter-3": {
@@ -3809,7 +3809,7 @@
       }
     },
     "Logo": {
-      "value": "http://storez.local/wp-content/uploads/2024/03/NSFAS-Logo.png",
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/NSFAS%20Logo-zg9kDdVMBCZAE1bSOVV6tWcjYGoFGr.png",
       "type": "asset"
     },
     "fontFamilies": {
@@ -3829,7 +3829,7 @@
       }
     },
     "Logo": {
-      "value": "http://storez.local/wp-content/uploads/2024/03/Ezra-Horizontal@3x.png",
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Ezra%20vertical@2x-uls8hXpsuDMcOPAHnjHkYnSKIZqLyI.png",
       "type": "asset"
     },
     "fontFamilies": {
@@ -3849,7 +3849,7 @@
       }
     },
     "Logo": {
-      "value": "http://storez.local/wp-content/uploads/2024/03/Ezra-Horizontal@3x.png",
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Group%20103-fqF0JwRlbQ7WiHKppXEzeH05QXhoVQ.png",
       "type": "asset"
     },
     "fontFamilies": {
