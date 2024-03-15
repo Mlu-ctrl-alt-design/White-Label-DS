@@ -3803,7 +3803,7 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Orange dark.500}",
+          "value": "{Orange.500}",
           "type": "color"
         }
       }
@@ -3843,7 +3843,7 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Fuchsia.600}",
+          "value": "{Gradient.Linear.Color.46}",
           "type": "color"
         }
       }
@@ -3863,13 +3863,13 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Rosé.700}",
+          "value": "{Theme.denotative.error.normal}",
           "type": "color"
         }
       }
     },
     "Logo": {
-      "value": "http://storez.local/wp-content/uploads/2024/03/Ezra-Horizontal@3x.png",
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Vector-5LHOTOtlBZ8TZbdq7ZNJo3em8gwYUd.png",
       "type": "asset"
     },
     "fontFamilies": {
