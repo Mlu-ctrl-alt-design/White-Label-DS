@@ -3547,7 +3547,7 @@
     }
   },
   "alias": {},
-  "theme / Semantic/ light": {
+  "theme / mode/ light": {
     "Theme": {
       "background": {
         "page": {
@@ -3673,7 +3673,7 @@
       }
     }
   },
-  "theme / Semantic/ dark": {
+  "theme / mode/ dark": {
     "Theme": {
       "background": {
         "page": {
@@ -3799,7 +3799,7 @@
       }
     }
   },
-  "theme / NSFAS": {
+  "theme / brand / NSFAS": {
     "Theme": {
       "brand": {
         "primary": {
@@ -3819,7 +3819,7 @@
       }
     }
   },
-  "theme / Ezra": {
+  "theme / brand / Ezra": {
     "Theme": {
       "brand": {
         "primary": {
@@ -3839,27 +3839,7 @@
       }
     }
   },
-  "theme / Anglo": {
-    "Theme": {
-      "brand": {
-        "primary": {
-          "value": "{Gradient.Linear.Color.46}",
-          "type": "color"
-        }
-      }
-    },
-    "Logo": {
-      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Group%20103-fqF0JwRlbQ7WiHKppXEzeH05QXhoVQ.png",
-      "type": "asset"
-    },
-    "fontFamilies": {
-      "default": {
-        "value": "Roboto Condensed",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "theme / Avis": {
+  "theme / brand / Avis": {
     "Theme": {
       "brand": {
         "primary": {
@@ -3879,6 +3859,46 @@
       }
     }
   },
+  "theme / brand / SAPS": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "#1B4381",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/SAPS%20Emblem-v8aPcuJYkGSMslJCMgTcMojOvEdUj9.png",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "theme / brand / GPG": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "#0066c4",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/GPGLogo_3x_op-bhBXGbiPsZd9RE8j15JPmEZqZ6rcjp.png",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    }
+  },
   "$themes": [
     {
       "id": "dc3341fd2d7a796621e1be6b1e99a78a2c443a1b",
@@ -3886,7 +3906,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Semantic/ light": "enabled"
+        "theme / mode/ light": "enabled"
       },
       "group": "Theme"
     },
@@ -3896,7 +3916,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Semantic/ dark": "enabled"
+        "theme / mode/ dark": "enabled"
       },
       "group": "Theme"
     },
@@ -3906,8 +3926,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "enabled",
-        "theme / NSFAS": "source",
-        "theme / Semantic/ light": "source"
+        "theme / brand / NSFAS": "source",
+        "theme / mode/ light": "source"
       },
       "group": "NSFAS"
     },
@@ -3917,8 +3937,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / NSFAS": "enabled",
-        "theme / Semantic/ dark": "enabled"
+        "theme / brand / NSFAS": "enabled",
+        "theme / mode/ dark": "enabled"
       },
       "group": "NSFAS"
     },
@@ -3928,8 +3948,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Ezra": "enabled",
-        "theme / Semantic/ light": "enabled"
+        "theme / brand / Ezra": "enabled",
+        "theme / mode/ light": "enabled"
       },
       "group": "Ezra"
     },
@@ -3939,8 +3959,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Ezra": "enabled",
-        "theme / Semantic/ dark": "enabled"
+        "theme / brand / Ezra": "enabled",
+        "theme / mode/ dark": "enabled"
       },
       "group": "Ezra"
     },
@@ -3950,8 +3970,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Semantic/ light": "enabled",
-        "theme / Anglo": "enabled"
+        "theme / mode/ light": "enabled"
       },
       "group": "Anglo"
     },
@@ -3961,8 +3980,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Semantic/ dark": "enabled",
-        "theme / Anglo": "source"
+        "theme / mode/ dark": "enabled"
       },
       "group": "Anglo"
     },
@@ -3972,8 +3990,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Semantic/ light": "enabled",
-        "theme / Avis": "enabled"
+        "theme / brand / Avis": "enabled",
+        "theme / mode/ light": "enabled"
       },
       "group": "Avis"
     },
@@ -3983,22 +4001,67 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / Semantic/ dark": "enabled",
-        "theme / Avis": "enabled"
+        "theme / brand / Avis": "enabled",
+        "theme / mode/ dark": "enabled"
       },
       "group": "Avis"
+    },
+    {
+      "id": "953ed0b281c107fadbc0179c5aa4f30cdd621592",
+      "name": "light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / mode/ light": "enabled",
+        "theme / brand / GPG": "enabled"
+      },
+      "group": "GPG"
+    },
+    {
+      "id": "34a7b3ffae3f2411c4c44398ba21d4f87cfe5bcc",
+      "name": "light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / mode/ light": "enabled",
+        "theme / brand / SAPS": "enabled"
+      },
+      "group": "SAPS"
+    },
+    {
+      "id": "166630649ca283e48f1826e5017a4c793ddd92a5",
+      "name": "dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / mode/ dark": "enabled",
+        "theme / brand / GPG": "enabled"
+      },
+      "group": "GPG"
+    },
+    {
+      "id": "9c73d20b9efc5866a5a8a290a813c8fb98bc873c",
+      "name": "dark",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SAPS": "enabled"
+      },
+      "group": "SAPS"
     }
   ],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "alias",
-      "theme / Semantic/ light",
-      "theme / Semantic/ dark",
-      "theme / NSFAS",
-      "theme / Ezra",
-      "theme / Anglo",
-      "theme / Avis"
+      "theme / mode/ light",
+      "theme / mode/ dark",
+      "theme / brand / NSFAS",
+      "theme / brand / Ezra",
+      "theme / brand / Avis",
+      "theme / brand / SAPS",
+      "theme / brand / GPG"
     ]
   }
 }
