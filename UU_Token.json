@@ -3899,6 +3899,34 @@
       }
     }
   },
+  "theme / brand / NMB": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "#b21417",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Logo_home-LYfGZf1HdAjyIHwYBSL09PgdDRLF2v.png",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "Greeter": {
+      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
+      "type": "text"
+    },
+    "Namespace": {
+      "value": "Nelson Mandela Bay",
+      "type": "text"
+    }
+  },
   "$themes": [
     {
       "id": "dc3341fd2d7a796621e1be6b1e99a78a2c443a1b",
@@ -4061,7 +4089,8 @@
       "theme / brand / Ezra",
       "theme / brand / Avis",
       "theme / brand / SAPS",
-      "theme / brand / GPG"
+      "theme / brand / GPG",
+      "theme / brand / NMB"
     ]
   }
 }
