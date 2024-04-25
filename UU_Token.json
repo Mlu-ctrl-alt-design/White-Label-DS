@@ -3551,7 +3551,7 @@
     "Theme": {
       "background": {
         "page": {
-          "value": "{Gray (light mode).50}",
+          "value": "{Base.White}",
           "type": "color"
         },
         "body": {
@@ -3561,7 +3561,7 @@
       },
       "surface": {
         "normal": {
-          "value": "{Gray (light mode).25}",
+          "value": "{Gray (light mode).100}",
           "type": "color"
         },
         "invert": {
@@ -3899,17 +3899,17 @@
       }
     }
   },
-  "theme / brand / NMB": {
+  "theme / brand / Rustenburg Municipality": {
     "Theme": {
       "brand": {
         "primary": {
-          "value": "#b21417",
+          "value": "#fb8c00",
           "type": "color"
         }
       }
     },
     "Logo": {
-      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Logo_home-LYfGZf1HdAjyIHwYBSL09PgdDRLF2v.png",
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Rustenburg-Local-Municipality-1-Fb8GBrhnBQcCaxBi2P1eIYa5wfv0lt.jpg",
       "type": "asset"
     },
     "fontFamilies": {
@@ -3917,14 +3917,6 @@
         "value": "Roboto",
         "type": "fontFamilies"
       }
-    },
-    "Greeter": {
-      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
-      "type": "text"
-    },
-    "Namespace": {
-      "value": "Nelson Mandela Bay",
-      "type": "text"
     }
   },
   "$themes": [
@@ -4077,6 +4069,17 @@
         "theme / brand / SAPS": "enabled"
       },
       "group": "SAPS"
+    },
+    {
+      "id": "29a3fa1dacad0aa0e85ffb2ecac10f2ac937974b",
+      "name": "light",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "source",
+        "theme / mode/ light": "enabled",
+        "theme / brand / Rustenburg Municipality": "enabled"
+      },
+      "group": "Rustenburg"
     }
   ],
   "$metadata": {
@@ -4090,7 +4093,7 @@
       "theme / brand / Avis",
       "theme / brand / SAPS",
       "theme / brand / GPG",
-      "theme / brand / NMB"
+      "theme / brand / Rustenburg Municipality"
     ]
   }
 }
