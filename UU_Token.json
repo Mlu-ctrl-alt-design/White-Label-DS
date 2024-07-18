@@ -3899,6 +3899,26 @@
       }
     }
   },
+  "theme / brand / CCMA": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "#0066c4",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/logo-xVLJaQLhF2Ym6YuJniT0nLTIAyUzz9.svg",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    }
+  },
   "theme / brand / NMB": {
     "Theme": {
       "brand": {
@@ -4090,6 +4110,7 @@
       "theme / brand / Avis",
       "theme / brand / SAPS",
       "theme / brand / GPG",
+      "theme / brand / CCMA",
       "theme / brand / NMB"
     ]
   }
