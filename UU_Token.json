@@ -3923,7 +3923,7 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "#b21417",
+          "value": "{Green.700}",
           "type": "color"
         }
       }
@@ -3945,6 +3945,38 @@
     "Namespace": {
       "value": "Nelson Mandela Bay",
       "type": "text"
+    }
+  },
+  "theme / brand / DIRCO": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Green.800}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-Logo-jEXwhMY1snwfUlMrh2wsHM3NTbs8f7.jpg",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "Greeter": {
+      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
+      "type": "text"
+    },
+    "Namespace": {
+      "value": "Nelson Mandela Bay",
+      "type": "text"
+    },
+    "Headerimage": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-website-header-scaled-BuxSsSvxYiiLpsBdfq3yktmM8EADPP.jpg",
+      "type": "asset"
     }
   },
   "$themes": [
@@ -4111,7 +4143,8 @@
       "theme / brand / SAPS",
       "theme / brand / GPG",
       "theme / brand / CCMA",
-      "theme / brand / NMB"
+      "theme / brand / NMB",
+      "theme / brand / DIRCO"
     ]
   }
 }
