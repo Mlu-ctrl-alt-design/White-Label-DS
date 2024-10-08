@@ -3979,6 +3979,38 @@
       "type": "asset"
     }
   },
+  "theme / brand / ITAC": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Green.800}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/ITACLOGO_edited-3-clPqqXsBM5tF7Dp6QbChdjsAxxwdE3.jpg",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "Greeter": {
+      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
+      "type": "text"
+    },
+    "Namespace": {
+      "value": "Nelson Mandela Bay",
+      "type": "text"
+    },
+    "Headerimage": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-website-header-scaled-BuxSsSvxYiiLpsBdfq3yktmM8EADPP.jpg",
+      "type": "asset"
+    }
+  },
   "$themes": [
     {
       "id": "dc3341fd2d7a796621e1be6b1e99a78a2c443a1b",
@@ -4144,7 +4176,8 @@
       "theme / brand / GPG",
       "theme / brand / CCMA",
       "theme / brand / NMB",
-      "theme / brand / DIRCO"
+      "theme / brand / DIRCO",
+      "theme / brand / ITAC"
     ]
   }
 }
