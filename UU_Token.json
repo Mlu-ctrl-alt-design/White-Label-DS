@@ -4026,7 +4026,39 @@
     },
     "fontFamilies": {
       "default": {
-        "value": "Roboto",
+        "value": "Poppins",
+        "type": "fontFamilies"
+      }
+    },
+    "Greeter": {
+      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
+      "type": "text"
+    },
+    "Namespace": {
+      "value": "Nelson Mandela Bay",
+      "type": "text"
+    },
+    "Headerimage": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-website-header-scaled-BuxSsSvxYiiLpsBdfq3yktmM8EADPP.jpg",
+      "type": "asset"
+    }
+  },
+  "theme / brand / EEC": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Teal.700}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/ksd_Logo-H61vtCWmhsVWxW6Xnw9t5o56HrvfeM.jpg",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Poppins",
         "type": "fontFamilies"
       }
     },
@@ -4051,7 +4083,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ light": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "Theme"
     },
@@ -4062,7 +4094,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ dark": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "Theme"
     },
@@ -4074,7 +4106,7 @@
         "global": "enabled",
         "theme / brand / NSFAS": "source",
         "theme / mode/ light": "source",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "NSFAS"
     },
@@ -4086,7 +4118,7 @@
         "global": "source",
         "theme / brand / NSFAS": "enabled",
         "theme / mode/ dark": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "NSFAS"
     },
@@ -4098,7 +4130,7 @@
         "global": "source",
         "theme / brand / Ezra": "enabled",
         "theme / mode/ light": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "Ezra"
     },
@@ -4110,7 +4142,7 @@
         "global": "source",
         "theme / brand / Ezra": "enabled",
         "theme / mode/ dark": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "Ezra"
     },
@@ -4121,7 +4153,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ light": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "Anglo"
     },
@@ -4132,7 +4164,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ dark": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "Anglo"
     },
@@ -4144,7 +4176,7 @@
         "global": "source",
         "theme / brand / Avis": "enabled",
         "theme / mode/ light": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "Avis"
     },
@@ -4156,7 +4188,7 @@
         "global": "source",
         "theme / brand / Avis": "enabled",
         "theme / mode/ dark": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "Avis"
     },
@@ -4168,7 +4200,7 @@
         "global": "source",
         "theme / mode/ light": "enabled",
         "theme / brand / GPG": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "GPG"
     },
@@ -4180,7 +4212,7 @@
         "global": "source",
         "theme / mode/ light": "enabled",
         "theme / brand / SAPS": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "SAPS"
     },
@@ -4192,7 +4224,7 @@
         "global": "source",
         "theme / mode/ dark": "enabled",
         "theme / brand / GPG": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "GPG"
     },
@@ -4204,7 +4236,7 @@
         "global": "source",
         "theme / mode/ dark": "enabled",
         "theme / brand / SAPS": "enabled",
-        "theme / brand / KSD": "disabled"
+        "theme / brand / EEC": "disabled"
       },
       "group": "SAPS"
     }
@@ -4224,7 +4256,8 @@
       "theme / brand / NMB",
       "theme / brand / DIRCO",
       "theme / brand / ITAC",
-      "theme / brand / KSD"
+      "theme / brand / KSD",
+      "theme / brand / EEC"
     ]
   }
 }
