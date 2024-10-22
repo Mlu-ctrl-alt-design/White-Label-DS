@@ -4053,7 +4053,7 @@
       }
     },
     "Logo": {
-      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/ksd_Logo-H61vtCWmhsVWxW6Xnw9t5o56HrvfeM.jpg",
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/EEC%20Logo-mkKuKMWd6jwPVmLlZWYQAMiYeWLWJd.png",
       "type": "asset"
     },
     "fontFamilies": {
@@ -4082,8 +4082,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ light": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ light": "enabled"
       },
       "group": "Theme"
     },
@@ -4093,8 +4092,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ dark": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ dark": "enabled"
       },
       "group": "Theme"
     },
@@ -4105,8 +4103,7 @@
       "selectedTokenSets": {
         "global": "enabled",
         "theme / brand / NSFAS": "source",
-        "theme / mode/ light": "source",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ light": "source"
       },
       "group": "NSFAS"
     },
@@ -4117,8 +4114,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / NSFAS": "enabled",
-        "theme / mode/ dark": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ dark": "enabled"
       },
       "group": "NSFAS"
     },
@@ -4129,8 +4125,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Ezra": "enabled",
-        "theme / mode/ light": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ light": "enabled"
       },
       "group": "Ezra"
     },
@@ -4141,8 +4136,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Ezra": "enabled",
-        "theme / mode/ dark": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ dark": "enabled"
       },
       "group": "Ezra"
     },
@@ -4152,8 +4146,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ light": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ light": "enabled"
       },
       "group": "Anglo"
     },
@@ -4163,8 +4156,7 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ dark": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ dark": "enabled"
       },
       "group": "Anglo"
     },
@@ -4175,8 +4167,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Avis": "enabled",
-        "theme / mode/ light": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ light": "enabled"
       },
       "group": "Avis"
     },
@@ -4187,8 +4178,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Avis": "enabled",
-        "theme / mode/ dark": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / mode/ dark": "enabled"
       },
       "group": "Avis"
     },
@@ -4199,8 +4189,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ light": "enabled",
-        "theme / brand / GPG": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / brand / GPG": "enabled"
       },
       "group": "GPG"
     },
@@ -4211,8 +4200,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ light": "enabled",
-        "theme / brand / SAPS": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / brand / SAPS": "enabled"
       },
       "group": "SAPS"
     },
@@ -4223,8 +4211,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ dark": "enabled",
-        "theme / brand / GPG": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / brand / GPG": "enabled"
       },
       "group": "GPG"
     },
@@ -4235,8 +4222,7 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ dark": "enabled",
-        "theme / brand / SAPS": "enabled",
-        "theme / brand / EEC": "disabled"
+        "theme / brand / SAPS": "enabled"
       },
       "group": "SAPS"
     }
