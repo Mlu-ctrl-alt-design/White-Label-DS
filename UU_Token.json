@@ -3899,11 +3899,31 @@
       }
     }
   },
+  "theme / brand / CCMA": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "#0066c4",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/logo-xVLJaQLhF2Ym6YuJniT0nLTIAyUzz9.svg",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    }
+  },
   "theme / brand / NMB": {
     "Theme": {
       "brand": {
         "primary": {
-          "value": "#b21417",
+          "value": "{Green.700}",
           "type": "color"
         }
       }
@@ -3927,6 +3947,134 @@
       "type": "text"
     }
   },
+  "theme / brand / DIRCO": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Green.800}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-Logo-jEXwhMY1snwfUlMrh2wsHM3NTbs8f7.jpg",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "Greeter": {
+      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
+      "type": "text"
+    },
+    "Namespace": {
+      "value": "Nelson Mandela Bay",
+      "type": "text"
+    },
+    "Headerimage": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-website-header-scaled-BuxSsSvxYiiLpsBdfq3yktmM8EADPP.jpg",
+      "type": "asset"
+    }
+  },
+  "theme / brand / ITAC": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Green.800}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/ITACLOGO_edited-3-clPqqXsBM5tF7Dp6QbChdjsAxxwdE3.jpg",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "Greeter": {
+      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
+      "type": "text"
+    },
+    "Namespace": {
+      "value": "Nelson Mandela Bay",
+      "type": "text"
+    },
+    "Headerimage": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-website-header-scaled-BuxSsSvxYiiLpsBdfq3yktmM8EADPP.jpg",
+      "type": "asset"
+    }
+  },
+  "theme / brand / KSD": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Blue dark.600}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/ksd_Logo-H61vtCWmhsVWxW6Xnw9t5o56HrvfeM.jpg",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "Greeter": {
+      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
+      "type": "text"
+    },
+    "Namespace": {
+      "value": "Nelson Mandela Bay",
+      "type": "text"
+    },
+    "Headerimage": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-website-header-scaled-BuxSsSvxYiiLpsBdfq3yktmM8EADPP.jpg",
+      "type": "asset"
+    }
+  },
+  "theme / brand / SEFA": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Orange dark.400}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Sefa%20Finance%20Logo-8NCGwCp8lEOmcbfwrFo455cIguy9Nv.png",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
+    },
+    "Greeter": {
+      "value": "Welcome to \nNelson Mandela Bay - Pothole reporting App",
+      "type": "text"
+    },
+    "Namespace": {
+      "value": "Nelson Mandela Bay",
+      "type": "text"
+    },
+    "Headerimage": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/DIRCO-website-header-scaled-BuxSsSvxYiiLpsBdfq3yktmM8EADPP.jpg",
+      "type": "asset"
+    }
+  },
   "$themes": [
     {
       "id": "dc3341fd2d7a796621e1be6b1e99a78a2c443a1b",
@@ -3934,7 +4082,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ light": "enabled"
+        "theme / mode/ light": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Theme"
     },
@@ -3944,7 +4093,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Theme"
     },
@@ -3955,7 +4105,8 @@
       "selectedTokenSets": {
         "global": "enabled",
         "theme / brand / NSFAS": "source",
-        "theme / mode/ light": "source"
+        "theme / mode/ light": "source",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "NSFAS"
     },
@@ -3966,7 +4117,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / NSFAS": "enabled",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "NSFAS"
     },
@@ -3977,7 +4129,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Ezra": "enabled",
-        "theme / mode/ light": "enabled"
+        "theme / mode/ light": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Ezra"
     },
@@ -3988,7 +4141,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Ezra": "enabled",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Ezra"
     },
@@ -3998,7 +4152,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ light": "enabled"
+        "theme / mode/ light": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Anglo"
     },
@@ -4008,7 +4163,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Anglo"
     },
@@ -4019,7 +4175,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Avis": "enabled",
-        "theme / mode/ light": "enabled"
+        "theme / mode/ light": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Avis"
     },
@@ -4030,7 +4187,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Avis": "enabled",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Avis"
     },
@@ -4041,7 +4199,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ light": "enabled",
-        "theme / brand / GPG": "enabled"
+        "theme / brand / GPG": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "GPG"
     },
@@ -4052,7 +4211,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ light": "enabled",
-        "theme / brand / SAPS": "enabled"
+        "theme / brand / SAPS": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "SAPS"
     },
@@ -4063,7 +4223,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ dark": "enabled",
-        "theme / brand / GPG": "enabled"
+        "theme / brand / GPG": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "GPG"
     },
@@ -4074,7 +4235,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ dark": "enabled",
-        "theme / brand / SAPS": "enabled"
+        "theme / brand / SAPS": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "SAPS"
     }
@@ -4090,7 +4252,12 @@
       "theme / brand / Avis",
       "theme / brand / SAPS",
       "theme / brand / GPG",
-      "theme / brand / NMB"
+      "theme / brand / CCMA",
+      "theme / brand / NMB",
+      "theme / brand / DIRCO",
+      "theme / brand / ITAC",
+      "theme / brand / KSD",
+      "theme / brand / SEFA"
     ]
   }
 }
