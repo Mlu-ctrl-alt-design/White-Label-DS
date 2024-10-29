@@ -4026,7 +4026,7 @@
     },
     "fontFamilies": {
       "default": {
-        "value": "Poppins",
+        "value": "Roboto",
         "type": "fontFamilies"
       }
     },
@@ -4043,22 +4043,22 @@
       "type": "asset"
     }
   },
-  "theme / brand / EEC": {
+  "theme / brand / SEFA": {
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Teal.700}",
+          "value": "{Orange dark.400}",
           "type": "color"
         }
       }
     },
     "Logo": {
-      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/EEC%20Logo-mkKuKMWd6jwPVmLlZWYQAMiYeWLWJd.png",
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Sefa%20Finance%20Logo-8NCGwCp8lEOmcbfwrFo455cIguy9Nv.png",
       "type": "asset"
     },
     "fontFamilies": {
       "default": {
-        "value": "Poppins",
+        "value": "Roboto",
         "type": "fontFamilies"
       }
     },
@@ -4082,7 +4082,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ light": "enabled"
+        "theme / mode/ light": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Theme"
     },
@@ -4092,7 +4093,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Theme"
     },
@@ -4103,7 +4105,8 @@
       "selectedTokenSets": {
         "global": "enabled",
         "theme / brand / NSFAS": "source",
-        "theme / mode/ light": "source"
+        "theme / mode/ light": "source",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "NSFAS"
     },
@@ -4114,7 +4117,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / NSFAS": "enabled",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "NSFAS"
     },
@@ -4125,7 +4129,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Ezra": "enabled",
-        "theme / mode/ light": "enabled"
+        "theme / mode/ light": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Ezra"
     },
@@ -4136,7 +4141,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Ezra": "enabled",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Ezra"
     },
@@ -4146,7 +4152,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ light": "enabled"
+        "theme / mode/ light": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Anglo"
     },
@@ -4156,7 +4163,8 @@
       "$figmaStyleReferences": {},
       "selectedTokenSets": {
         "global": "source",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Anglo"
     },
@@ -4167,7 +4175,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Avis": "enabled",
-        "theme / mode/ light": "enabled"
+        "theme / mode/ light": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Avis"
     },
@@ -4178,7 +4187,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / brand / Avis": "enabled",
-        "theme / mode/ dark": "enabled"
+        "theme / mode/ dark": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "Avis"
     },
@@ -4189,7 +4199,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ light": "enabled",
-        "theme / brand / GPG": "enabled"
+        "theme / brand / GPG": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "GPG"
     },
@@ -4200,7 +4211,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ light": "enabled",
-        "theme / brand / SAPS": "enabled"
+        "theme / brand / SAPS": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "SAPS"
     },
@@ -4211,7 +4223,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ dark": "enabled",
-        "theme / brand / GPG": "enabled"
+        "theme / brand / GPG": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "GPG"
     },
@@ -4222,7 +4235,8 @@
       "selectedTokenSets": {
         "global": "source",
         "theme / mode/ dark": "enabled",
-        "theme / brand / SAPS": "enabled"
+        "theme / brand / SAPS": "enabled",
+        "theme / brand / SEFA": "disabled"
       },
       "group": "SAPS"
     }
@@ -4243,7 +4257,7 @@
       "theme / brand / DIRCO",
       "theme / brand / ITAC",
       "theme / brand / KSD",
-      "theme / brand / EEC"
+      "theme / brand / SEFA"
     ]
   }
 }
