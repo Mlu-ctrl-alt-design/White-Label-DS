@@ -3803,7 +3803,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Orange.500}",
+          "value": "#58b6e9",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#065986",
           "type": "color"
         }
       }
@@ -3871,7 +3875,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Theme.denotative.error.normal}",
+          "value": "{Error.600}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "black",
           "type": "color"
         }
       }
@@ -3891,7 +3899,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "#1B4381",
+          "value": "{Blue dark.950}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{Yellow.800}",
           "type": "color"
         }
       }
@@ -3911,7 +3923,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "#0066c4",
+          "value": "#58b6e9",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#065986",
           "type": "color"
         }
       }
@@ -3931,7 +3947,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "#0066c4",
+          "value": "#58b6e9",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#065986",
           "type": "color"
         }
       }
@@ -3951,7 +3971,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Green.700}",
+          "value": "#58b6e9",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#065986",
           "type": "color"
         }
       }
@@ -3979,7 +4003,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Green.800}",
+          "value": "#58b6e9",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#065986",
           "type": "color"
         }
       }
@@ -4011,7 +4039,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Green.800}",
+          "value": "#58b6e9",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#065986",
           "type": "color"
         }
       }
@@ -4043,7 +4075,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Blue dark.600}",
+          "value": "#58b6e9",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#065986",
           "type": "color"
         }
       }
@@ -4075,7 +4111,11 @@
     "Theme": {
       "brand": {
         "primary": {
-          "value": "{Orange dark.400}",
+          "value": "#58b6e9",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#065986",
           "type": "color"
         }
       }
