@@ -1714,7 +1714,7 @@
             "type": "color"
           },
           "33": {
-            "value": "linear-gradient(45deg, #4def8e 0%, #ffeb3a 100%)",
+            "value": "linear-gradient(45deg, #4def8e 0%, #087443 100%)",
             "type": "color"
           },
           "34": {
@@ -3547,6 +3547,132 @@
     }
   },
   "alias": {},
+  "theme / mode/ dark": {
+    "Theme": {
+      "background": {
+        "page": {
+          "value": "{Gray (light mode).900}",
+          "type": "color"
+        },
+        "body": {
+          "value": "{Gray (light mode).950}",
+          "type": "color"
+        }
+      },
+      "surface": {
+        "normal": {
+          "value": "{Gray (light mode).800}",
+          "type": "color"
+        },
+        "invert": {
+          "value": "{Gray (light mode).100}",
+          "type": "color"
+        },
+        "raised": {
+          "value": "{Gray (light mode).600}",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "primary": {
+          "value": "{Blue.700}",
+          "type": "color"
+        }
+      },
+      "denotative": {
+        "success": {
+          "normal": {
+            "value": "{Green.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{Green.600}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{Green.200}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "normal": {
+            "value": "{Yellow.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{Yellow.600}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{Yellow.200}",
+            "type": "color"
+          }
+        },
+        "error": {
+          "normal": {
+            "value": "{Error.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{Error.600}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{Error.200}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "normal": {
+            "value": "{Blue.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{Blue.600}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{Blue.200}",
+            "type": "color"
+          }
+        }
+      },
+      "border": {
+        "container": {
+          "value": "{Gray (light mode).500}",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "{Gray (light mode).900}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{Gray (light mode).500}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "body": {
+          "value": "{Gray (light mode).100}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{Gray (light mode).300}",
+          "type": "color"
+        },
+        "on image": {
+          "value": "{Gray (light mode).700}",
+          "type": "color"
+        },
+        "on primary": {
+          "value": "{Gray (light mode).800}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "theme / mode/ light": {
     "Theme": {
       "background": {
@@ -3679,132 +3805,6 @@
     "shadow-md": {
       "value": "{Shadows.shadow-md}",
       "type": "boxShadow"
-    }
-  },
-  "theme / mode/ dark": {
-    "Theme": {
-      "background": {
-        "page": {
-          "value": "{Gray (light mode).900}",
-          "type": "color"
-        },
-        "body": {
-          "value": "{Gray (light mode).950}",
-          "type": "color"
-        }
-      },
-      "surface": {
-        "normal": {
-          "value": "{Gray (light mode).800}",
-          "type": "color"
-        },
-        "invert": {
-          "value": "{Gray (light mode).100}",
-          "type": "color"
-        },
-        "raised": {
-          "value": "{Gray (light mode).600}",
-          "type": "color"
-        }
-      },
-      "brand": {
-        "primary": {
-          "value": "{Blue.700}",
-          "type": "color"
-        }
-      },
-      "denotative": {
-        "success": {
-          "normal": {
-            "value": "{Green.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Green.600}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{Green.200}",
-            "type": "color"
-          }
-        },
-        "warning": {
-          "normal": {
-            "value": "{Yellow.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Yellow.600}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{Yellow.200}",
-            "type": "color"
-          }
-        },
-        "error": {
-          "normal": {
-            "value": "{Error.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Error.600}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{Error.200}",
-            "type": "color"
-          }
-        },
-        "info": {
-          "normal": {
-            "value": "{Blue.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{Blue.600}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{Blue.200}",
-            "type": "color"
-          }
-        }
-      },
-      "border": {
-        "container": {
-          "value": "{Gray (light mode).500}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{Gray (light mode).900}",
-          "type": "color"
-        }
-      },
-      "icon": {
-        "default": {
-          "value": "{Gray (light mode).500}",
-          "type": "color"
-        }
-      },
-      "text": {
-        "body": {
-          "value": "{Gray (light mode).100}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{Gray (light mode).300}",
-          "type": "color"
-        },
-        "on image": {
-          "value": "{Gray (light mode).700}",
-          "type": "color"
-        },
-        "on primary": {
-          "value": "{Gray (light mode).800}",
-          "type": "color"
-        }
-      }
     }
   },
   "theme / brand / NSFAS": {
@@ -4041,6 +4041,14 @@
         "primary": {
           "value": "{Green.700}",
           "type": "color"
+        },
+        "secondary": {
+          "value": "{Blue dark.400}",
+          "type": "color"
+        },
+        "gradient": {
+          "value": "{Gradient.Linear.Color.33}",
+          "type": "color"
         }
       }
     },
@@ -4079,7 +4087,7 @@
           "type": "color"
         },
         "gradient": {
-          "value": "{Gradient.Gray.800 -> 600 (90deg)}",
+          "value": "{Gradient.Linear.Color.79}",
           "type": "color"
         }
       }
@@ -4263,8 +4271,8 @@
     "tokenSetOrder": [
       "global",
       "alias",
-      "theme / mode/ light",
       "theme / mode/ dark",
+      "theme / mode/ light",
       "theme / brand / NSFAS",
       "theme / brand / Ezra",
       "theme / brand / Avis",
