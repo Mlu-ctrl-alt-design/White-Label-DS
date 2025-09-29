@@ -3561,7 +3561,7 @@
       },
       "surface": {
         "normal": {
-          "value": "{Gray (light mode).25}",
+          "value": "{Base.White}",
           "type": "color"
         },
         "invert": {
@@ -3671,6 +3671,14 @@
           "type": "color"
         }
       }
+    },
+    "Shadow-sm": {
+      "value": "{Shadows.shadow-sm}",
+      "type": "boxShadow"
+    },
+    "shadow-md": {
+      "value": "{Shadows.shadow-md}",
+      "type": "boxShadow"
     }
   },
   "theme / mode/ dark": {
@@ -3804,6 +3812,14 @@
       "brand": {
         "primary": {
           "value": "{Orange.500}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{Gray (dark mode).800}",
+          "type": "color"
+        },
+        "gradient": {
+          "value": "{Gradient.Linear.Color.70}",
           "type": "color"
         }
       }
@@ -4052,6 +4068,10 @@
         },
         "secondary": {
           "value": "{Blue dark.400}",
+          "type": "color"
+        },
+        "gradient": {
+          "value": "{Gradient.Gray.800 -> 600 (90deg)}",
           "type": "color"
         }
       }
