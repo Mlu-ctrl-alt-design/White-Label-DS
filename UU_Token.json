@@ -3881,6 +3881,14 @@
         "primary": {
           "value": "#1B4381",
           "type": "color"
+        },
+        "secondary": {
+          "value": "{Yellow.600}",
+          "type": "color"
+        },
+        "gradient": {
+          "value": "{Gradient.Gray.800 -> 600 (90deg)}",
+          "type": "color"
         }
       }
     },
