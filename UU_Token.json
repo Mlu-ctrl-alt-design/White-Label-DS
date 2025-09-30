@@ -3841,6 +3841,14 @@
         "primary": {
           "value": "{Blue light.600}",
           "type": "color"
+        },
+        "secondary": {
+          "value": "{Orange.500}",
+          "type": "color"
+        },
+        "gradient": {
+          "value": "{Gradient.Linear.Color.81}",
+          "type": "color"
         }
       }
     },
