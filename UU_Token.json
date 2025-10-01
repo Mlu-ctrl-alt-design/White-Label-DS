@@ -3841,19 +3841,31 @@
         "primary": {
           "value": "{Blue light.600}",
           "type": "color"
-        },
-        "secondary": {
-          "value": "{Orange.500}",
-          "type": "color"
-        },
-        "gradient": {
-          "value": "{Gradient.Linear.Color.81}",
-          "type": "color"
         }
       }
     },
     "Logo": {
       "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/Ezra%20vertical@2x-uls8hXpsuDMcOPAHnjHkYnSKIZqLyI.png",
+      "type": "asset"
+    },
+    "fontFamilies": {
+      "default": {
+        "value": "SF Pro",
+        "type": "fontFamilies"
+      }
+    }
+  },
+  "theme / brand / Erwat": {
+    "Theme": {
+      "brand": {
+        "primary": {
+          "value": "{Blue light.600}",
+          "type": "color"
+        }
+      }
+    },
+    "Logo": {
+      "value": "https://vkdsfqsgs89skdvm.public.blob.vercel-storage.com/ERWAT-Logo-2020-1-300x150.jpg",
       "type": "asset"
     },
     "fontFamilies": {
@@ -4283,6 +4295,7 @@
       "theme / mode/ light",
       "theme / brand / NSFAS",
       "theme / brand / Ezra",
+      "theme / brand / Erwat",
       "theme / brand / Avis",
       "theme / brand / SAPS",
       "theme / brand / GPG",
